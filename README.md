@@ -12,7 +12,6 @@ A simple and interactive **To-Do List App** built using **React**. This app allo
 ## 🚀 **Features**  
 ✅ Add new tasks with priority selection (🔥 High, ⚡ Medium, 🌱 Low)  
 ✅ Mark tasks as completed (adds a line-through effect)  
-✅ Edit task names easily  
 ✅ Delete tasks when no longer needed  
 ✅ Due dates for better task management  
 

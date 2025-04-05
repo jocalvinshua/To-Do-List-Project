@@ -25,7 +25,7 @@ A simple and interactive **To-Do List App** built using **React**. This app allo
 ---  
 
 ## 📷 **Preview**  
-![App Screenshot](your_screenshot_url_here)
+![App Screenshot](src/img/ProjectDisplay.png)
 
 ---  
 
@@ -49,8 +49,8 @@ A simple and interactive **To-Do List App** built using **React**. This app allo
 
 ---   
 
-## 📝 **Contributing**  
-Feel free to fork this project, submit pull requests, or suggest improvements! 🚀  
+## 📬 Contact
+For any questions or feedback, feel free to [email me](mailto:calvinjoshua37@gmail.com) 🚀.
 
 ---
 

@@ -50,7 +50,7 @@ A simple and interactive **To-Do List App** built using **React**. This app allo
 ---   
 
 ## 📬 Contact
-For any questions or feedback, feel free to [email me](mailto:calvinjoshua37@gmail.com) 🚀.
+For any questions or feedback, feel free to [calvinjoshua37@gmail.com](mailto:calvinjoshua37@gmail.com) 🚀.
 
 ---
 

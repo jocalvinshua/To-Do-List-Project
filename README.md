@@ -1,9 +1,4 @@
-# To-Do-List-Project
-Here’s a simple yet well-structured **README.md** for your GitHub repository:  
-
----  
-
-### 📝 **To-Do List App**  
+# 📝 To-Do-List-Project 
 
 A simple and interactive **To-Do List App** built using **React**. This app allows users to manage their daily tasks efficiently with features like **task editing, status tracking (checkbox), task prioritization, and due dates**.  
 

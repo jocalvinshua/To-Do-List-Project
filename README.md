@@ -1,6 +1,6 @@
 # 📝 To-Do-List-Project 
 
-A simple and interactive **To-Do List App** built using **React**. This app allows users to manage their daily tasks efficiently with features like **task editing, status tracking (checkbox), task prioritization, and due dates**.  
+A simple and interactive **To-Do List App** built using **React** and **TailwindCSS**. This app allows users to manage their daily tasks efficiently with features like **task editing, status tracking (checkbox), task prioritization, and due dates**.  
 
 ---  
 
@@ -8,18 +8,18 @@ A simple and interactive **To-Do List App** built using **React**. This app allo
 ✅ Add new tasks with priority selection (🔥 High, ⚡ Medium, 🌱 Low)  
 ✅ Mark tasks as completed (adds a line-through effect)  
 ✅ Delete tasks when no longer needed  
-✅ Due dates for better task management  
+✅ Due dates for better task management
 
 ---  
 
 ## 🛠 **Technologies Used**  
 - **React** (for building the UI)  
-- **CSS** (for styling)  
+- **TailwindCSS & Lucide React** (for styling & icon)  
 
 ---  
 
 ## 📷 **Preview**  
-![App Screenshot](src/img/ProjectDisplay.png)
+![App Screenshot](src/img/projectDisplay.png)
 
 ---  
 
@@ -36,9 +36,17 @@ A simple and interactive **To-Do List App** built using **React**. This app allo
    ```sh
    npm install
    ```
-4. Start the app:  
+4. Install tailwindcss
    ```sh
-   npm start
+   npm install tailwindcss @tailwindcss/vite
+   ```
+5. Install Lucide-React
+   ```sh
+   npm install lucide-react
+   ```
+6. Start the app:  
+   ```sh
+   npm run dev
    ```
 
 ---   
